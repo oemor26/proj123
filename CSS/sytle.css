@@ -4,8 +4,9 @@ h1 {
 
 .a {
 	color: green;
-	background-color: black;
+	background-color: yellow;
 	font-family: century gothic;
+	text-decoration: center;
 }
 
 #b {
